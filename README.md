@@ -1,10 +1,10 @@
-# ¡Hola! Soy Juan (F4R3Juan58) 👋
+# ¡Hola! Soy Juan (F4R3) 👋
 
-Desarrollador enfocado en **C++** y **Python**. Me apasiona entender cómo funcionan las cosas "bajo el capó", desde la programación de sistemas hasta el desarrollo de herramientas y automatización.
+Desarrollador enfocado en **C#** y **Python**. Me apasiona entender cómo funcionan las cosas "bajo el capó", desde la programación de sistemas hasta el desarrollo de herramientas y automatización.
 
 ### 🛠️ Tecnologías y Herramientas
 
-* **Lenguajes:** C++, Python, C.
+* **Lenguajes:** C#, Python.
 * **Intereses:** Desarrollo de Videojuegos, Arquitectura de Sistemas, Ciberseguridad.
 * **Herramientas:** Git, GitHub, CMake, VS Code.
 
