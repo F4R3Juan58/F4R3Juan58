@@ -1,43 +1,39 @@
-# Hola, soy Juan (F4R3Juan58) 👋
+# ⚡ Hola, soy F4R3 (Juan) 👋
 
-Desarrollador enfocado en la creación de software eficiente y robusto. Me apasiona la programación de sistemas y la resolución de problemas lógicos mediante el uso de tecnologías de bajo y alto nivel.
+Soy un desarrollador enfocado en el **desarrollo de scripts para comunidades de gaming** (FiveM/Ark) y en la creación de aplicaciones web robustas con **TypeScript** y **C#**. Me encanta llevar la lógica de los videojuegos al siguiente nivel.
 
 ---
 
-### 🛠️ Stack Tecnológico
+### 🛠️ Mi Stack Tecnológico
 
-| Categoría | Tecnologías |
+| Especialidad | Tecnologías |
 | :--- | :--- |
-| **Lenguajes** | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) |
-| **Herramientas** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white) |
-| **Sistemas** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) |
+| **Game & Server Scripting** | ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| **Desarrollo Web (Fullstack)** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) |
+| **Entornos y Herramientas** | ![FiveM](https://img.shields.io/badge/FiveM-CF4343?style=for-the-badge&logo=fivem&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-101010?style=for-the-badge&logo=unity&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
 
 ---
 
 ### 🚀 Proyectos Destacados
 
-> Aquí puedes listar tus mejores trabajos. Usa un formato limpio:
-
-* **[Nombre del Proyecto]** - Una breve descripción técnica de lo que lograste.
-    * *Tecnologías:* C++, STL, CMake.
-* **[Nombre del Proyecto Python]** - Descripción del impacto o utilidad del script.
-    * *Tecnologías:* Python, Pandas, Requests.
+* **🕹️ FiveM Ecosystem:** Creador de scripts complejos para servidores GTA V, incluyendo sistemas de trabajos (`ambulancejob`) y sistemas de robos (`robberyplus`) optimizados en **Lua**.
+* **🤖 Ark Bot:** Desarrollo de bots de automatización y gestión para servidores de Ark: Survival Evolved usando **Python**.
+* **💼 Gestión & Lógica:** Proyectos como `Gestor_Ahorros` y `TrivialGeografia` que demuestran mi capacidad para manejar bases de datos y lógica de usuario en **JS/TS**.
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📊 Mis Estadísticas
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=F4R3Juan58&show_icons=true&theme=tokyonight&locale=es&hide_border=true" alt="Estadísticas de Juan" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F4R3Juan58&layout=compact&theme=tokyonight&locale=es&hide_border=true" alt="Lenguajes más usados" height="150" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=F4R3Juan58&show_icons=true&theme=tokyonight&locale=es&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F4R3Juan58&layout=compact&theme=tokyonight&locale=es&hide_border=true" height="150" />
 </p>
 
 ---
 
-### 📫 Contacto e Información
+### 💬 Hablemos de...
+* 🎮 Creación de contenido para servidores de rol (FiveM).
+* 🐍 Automatización de tareas con Python y bots de Discord.
+* 💻 Desarrollo de paneles administrativos con TypeScript.
 
-* 🌍 Ubicación: España
-* 💼 Disponible para: Proyectos Open Source / Colaboraciones Técnicas
-* 💬 Pregúntame sobre: C++, Algoritmos y Optimización
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINK_AQUI)
+> *"Transformando café en scripts eficientes."*
