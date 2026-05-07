@@ -46,7 +46,7 @@ Desarrollador Full-Stack especializado en **soluciones a medida para PYMES** y *
 
 Si buscas digitalizar tu negocio, necesitas mantenimiento de software o simplemente quieres charlar sobre scripting y optimización:
 
-* **LinkedIn:** [Tu Nombre](https://linkedin.com/in/tu-perfil)
+* **LinkedIn:** [Juan Gabriel Gallardo Martin](https://www.linkedin.com/in/juan-gallardo-martin/)
 * **Web:** *Próximamente*
 * **Discord:** `F4R3Juan58`
 
