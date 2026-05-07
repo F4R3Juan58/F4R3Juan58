@@ -38,8 +38,6 @@ Desarrollador con alma de **solucionador de problemas**. Paso de los CRUDs aburr
 | **[front-translite](https://github.com/F4R3Juan58/front-translite)** | Frontend de aplicación de gestión de rutas | React, TS, Tailwind |
 | **[Tu portfolio](https://github.com/F4R3Juan58/mi-portfolio)** | Portfolio profesional | HTML, Tailwind, JS |
 
-📌 *Fíjate que he puesto enlaces directos. Si no los has subido aún, te toca.*
-
 ---
 
 ## 📊 Actividad reciente
