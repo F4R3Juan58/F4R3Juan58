@@ -1,7 +1,7 @@
 # ⚡ Juan Gallardo | Desarrollador Full-Stack & Automatización
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-juangallardo.dev-purple?style=for-the-badge&logo=vercel)](https://portfolio-v2-eta-ivory.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-juan--gallardo-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tuusuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-juan--gallardo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/juan-gallardo-martin)
 [![GitHub](https://img.shields.io/badge/GitHub-F4R3Juan58-181717?style=for-the-badge&logo=github)](https://github.com/F4R3Juan58)
 
 ## 🚀 Sobre mí
@@ -53,10 +53,9 @@ Estoy en plena **reconstrucción de mi presencia digital**. Subiré varios proye
 
 ## 📫 Contacto
 
-- **Portfolio:** [juangallardo.dev](https://tu-portfolio.vercel.app)
-- **LinkedIn:** [Juan Gallardo Martín](https://linkedin.com/in/tuusuario)
+- **Portfolio:** [juangallardo.dev](https://portfolio-v2-eta-ivory.vercel.app)
+- **LinkedIn:** [Juan Gallardo Martín](https://www.linkedin.com/in/juan-gallardo-martin)
 - **Discord:** F4R3Juan58
-- **Correo:** `tu-email@dominio.com`
 
 ---
 
